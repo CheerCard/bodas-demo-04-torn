@@ -4,8 +4,8 @@
 	 viewBox="0 0 303.8 299.3" style="enable-background:new 0 0 303.8 299.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FCF6F2;}
-	.st1{fill:none;stroke:#FDCED8;stroke-width:1.2889;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#D0888E;stroke-width:3.7166;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#BFA880;stroke-width:1.2889;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#BFA880;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
 </style>
 <g>
 	<g>
@@ -1855,15 +1855,24 @@ AAAAAElFTkSuQmCC" transform="matrix(0.2387 0 0 0.2387 0.2514 0)">
 			/>
 	</g>
 	<g>
-		<g id="Capa_1_1_">
-			<g>
-				<path class="st2" d="M163.4,110.4v2.6c0,5.2-4.2,9.4-9.3,9.4H141c-5.2,0-9.4-4.2-9.4-9.4v-2.8"/>
-				<path class="st2" d="M174.5,110h-18.2c-0.7-4-4.2-7-8.4-7c-4.2,0-7.6,3-8.4,7h-18.2c-4.2,0-7.5,3.3-7.5,7.5v71.8
-					c0,4.2,3.3,7.5,7.5,7.5h53.1c4.2,0,7.5-3.3,7.5-7.5v-71.8C182.1,113.3,178.7,110,174.5,110z"/>
-			</g>
+		<g id="Capa_6">
+			<path class="st2" d="M162.4,145.3c0,0,8.2-4.1,17.5-4.9"/>
+			<path class="st2" d="M162.4,156.4c0,0,11.7,5.1,19.4,4.7"/>
+		</g>
+		<g id="Capa_5">
+			<path class="st2" d="M140.6,145.3c0,0-8.2-4.1-17.5-4.9"/>
+			<path class="st2" d="M140.6,156.4c0,0-11.7,5.1-19.4,4.7"/>
+		</g>
+		<g id="Capa_3">
+			<path class="st2" d="M142.3,138.9c0,0-3.6,9.1-0.2,24"/>
+		</g>
+		<g id="Capa_4">
+			<path class="st2" d="M160.4,139.1c0,0,4.6,10.4-0.3,23.7"/>
 		</g>
 		<g id="Capa_2_1_">
-			<polyline class="st2" points="133.1,154.8 142.8,164.2 161.7,146 			"/>
+			<path class="st2" d="M142.3,138.9c0,0-11.6-14.2-32.7-15.2c0,0-9.3-1.6-12.3,8.2c0,0-5.1,23.3-0.5,37.1c0,0,4.6,12.4,13.2,9.3
+				c0,0,21.9-2.9,32.1-15.4h18c0,0,14.7,13.6,31.5,15.1c0,0,12.9,2.3,14.4-7.2c0,0,4.9-20.8-0.5-40.3c0,0-1.9-11-15.1-6.2
+				c0,0-21.5,5.4-30,14.8L142.3,138.9z"/>
 		</g>
 	</g>
 </g>
